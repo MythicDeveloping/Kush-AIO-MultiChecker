@@ -1,0 +1,16 @@
+anticaptchaofficial
+beautifulsoup4
+colored
+console
+numerize
+PyAutoGUI
+pywin32
+random_user_agent
+requests
+rsa
+setuptools
+six
+TwoCaptcha
+pysocks
+keyboard
+discord-webhook
